@@ -8,3 +8,10 @@ JUST FOR FUN
 
 # TEST
 
+
+# TODO
+
+1. ps, top
+2. hack unhide
+3. kernel mode
+
